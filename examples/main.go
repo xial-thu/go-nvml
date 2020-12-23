@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/xial-thu/nvml"
+	"github.com/xial-thu/go-nvml"
 )
 
 func failedMsg(msg string, err error) {
